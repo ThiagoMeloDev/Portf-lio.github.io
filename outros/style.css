@@ -1,0 +1,358 @@
+body {
+    background: linear-gradient(90deg, black, blue, rgb(75, 75, 200));
+    font-family: "Poppins", sans-serif;
+    color: white;
+}
+
+
+.titulo {
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 8%;
+    left: 29%;
+}
+
+.titulo:hover {
+    letter-spacing: 1px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-weight: 300;
+}
+
+
+.About {
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 8%;
+    left: 39%;
+}
+
+
+.About:hover {
+    letter-spacing: 1px;
+}
+
+
+.Projects {
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 8%;
+    left: 49%;
+}
+
+.Projects:hover {
+    letter-spacing: 1px;
+}
+
+
+.Features {
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 8%;
+    left: 59%;
+}
+
+.Features:hover {
+    letter-spacing: 1px;
+}
+
+
+.Contact {
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 8%;
+    left: 69%;
+}
+
+
+.Contact:hover {
+    letter-spacing: 1px;
+}
+
+
+
+
+
+
+
+.tracinho {
+
+    width: 30px;
+    height: 3px;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 14%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    border-radius: 25px;
+}
+
+
+
+.tracinho1 {
+
+    width: 30px;
+    height: 3px;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 12%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    border-radius: 25px;
+}
+
+
+
+
+.tracinho2 {
+
+    width: 30px;
+    height: 3px;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: absolute;
+    top: 16%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    border-radius: 25px;
+}
+
+
+
+.welcome {
+    position: absolute;
+    top: 30%;
+    left: 15%;
+}
+
+
+h1 {
+    font-size: 70px;
+}
+
+
+.tgg {
+    position: absolute;
+    top: 56%;
+    left: 17%;
+}
+
+
+
+.imagem {
+   display: flex;
+   position: absolute;
+   left: 15%;
+   top: 4%;
+   width: 90px;
+   height: 90px;
+
+}
+
+
+.sobre {
+    position: absolute;
+    top: 90%;
+    left: 20%;
+}
+
+
+h2 {
+    font-size: 40px;
+}
+
+
+
+.textsobre {
+    position: absolute;
+    top: 110%;
+    left: 20%;
+
+}
+
+
+.textsobre1 {
+    position: absolute;
+    top: 115%;
+    left: 20%;
+
+}
+
+
+.textsobre2 {
+    position: absolute;
+    top: 120%;
+    left: 20%;
+
+}
+
+
+.textsobre3 {
+    position: absolute;
+    top: 125%;
+    left: 20%;
+
+}
+
+
+
+h6 {
+    color: white;
+    text-decoration: none;
+    font-weight: 300;
+}
+
+
+
+.projects{
+    position: absolute;
+    top: 150%;
+    left: 20%;
+
+}
+
+
+.login img {
+    display: flex;
+    width: 340px;
+    height: 200px;
+    position: absolute;
+    top: 190%;
+    left: 20%;
+}
+
+
+.teladelogin {
+    display: flex;
+    position: absolute;
+    top: 177%;
+    left: 20%;
+    color: aquamarine;
+}
+
+
+.LadingPage {
+    display: flex;
+    position: absolute;
+    top: 177%;
+    left: 55%;
+    color: aquamarine;
+}
+
+
+.Ladinpage7 img{
+    display: flex;
+    width: 410px;
+    height: 200px;
+    position: absolute;
+    top: 190%;
+    left: 55%;
+
+}
+
+
+
+.Skills{
+    position: absolute;
+    top: 250%;
+    left: 20%;
+
+}
+
+
+
+.html img{
+    display: flex;
+    position: absolute;
+    top: 270%;
+    left: 20%;
+}
+
+.css img{
+    display: flex;
+    position: absolute;
+    top: 270%;
+    left: 30%;
+}
+
+
+.photoshop img{
+    display: flex;
+    position: absolute;
+    top: 270%;
+    left: 40%;
+}
+
+.ilustrator img{
+    display: flex;
+    position: absolute;
+    top: 270%;
+    left: 50%;
+}
+
+
+.seta {
+    display: flex;
+    position: absolute;
+    top: 250%;
+    left: 2%;
+}
+
+
+.contatos {
+    position: absolute;
+    top: 302%;
+    left: 20%;
+}
+
+
+.github {
+    display: flex;
+    position: absolute;
+    top: 330%;
+    left: 20%;
+}
+
+
+.github {
+    display: flex;
+    position: absolute;
+    top: 330%;
+    left: 20%;
+}
+
+
+.linkedin {
+    display: flex;
+    position: absolute;
+    top: 330%;
+    left: 35%;
+}
+
+
+.Instagram {
+    display: flex;
+    position: absolute;
+    top: 330%;
+    left: 50%;
+}
+
+
+
+
